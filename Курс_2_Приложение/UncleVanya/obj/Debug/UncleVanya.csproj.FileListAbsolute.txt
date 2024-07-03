@@ -1,0 +1,67 @@
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\UncleVanya.exe.config
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\UncleVanya.exe
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\UncleVanya.pdb
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.SuggestedBindingRedirects.cache
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.Form1.resources
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.Properties.Resources.resources
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.GenerateResource.cache
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.CoreCompileInputs.cache
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.exe
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.pdb
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl1.resources
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl2.resources
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl3.resources
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\EntityFramework.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\GMap.NET.Core.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\EntityFramework.xml
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.xml
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl4.resources
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.CopyComplete
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\vovam\source\repos\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl5.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\UncleVanya.exe.config
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\UncleVanya.exe
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\UncleVanya.pdb
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\EntityFramework.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\GMap.NET.Core.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\EntityFramework.xml
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Data.SQLite.xml
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.AssemblyReference.cache
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.SuggestedBindingRedirects.cache
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.Form1.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.Properties.Resources.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl1.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl2.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl3.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl4.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.UserControl5.resources
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.GenerateResource.cache
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.CoreCompileInputs.cache
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.csproj.CopyComplete
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.exe
+C:\Users\vovam\OneDrive\Рабочий стол\UncleVanya\UncleVanya\obj\Debug\UncleVanya.pdb
